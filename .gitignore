@@ -1,0 +1,16 @@
+# Python cache files
+_pycache_/
+#.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+
+# VS Code Settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db

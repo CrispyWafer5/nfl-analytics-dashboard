@@ -14,3 +14,10 @@ _pycache_/
 # Operating system files
 .DS_Store
 Thumbs.db
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
